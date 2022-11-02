@@ -1,5 +1,19 @@
 # TKXDPM.CNTN.20221-20194043.NguyenQuocHao
-Tuần 1: Hoàn thành và nộp bài tập phân tích yêu cầu, bao gồm:
-- Biểu đồ use case
-- Biểu đồ hoạt động cho 3 use case: Place Order, Place Rush Order, Pay Order
-- Đặc tả use case: Place Order, Place Rush Order, Pay Order
+<pre>
+├── Requirement Analysis\
+│   ├── Activity diagram\
+│   │   ├── Activity diagram - Pay Order.png
+│   │   ├── Activity diagram - Place Order with Place Rush Order.png
+│   │   └── Activity diagram - Place Order.png
+│   │
+│   ├── Use case diagram\
+│   │   └── use case diagram.png
+│   │
+│   └── Use case specification\
+│       ├── Use case specification - Pay Order.pdf
+│       ├── Use case specification - Place Order with Place Rush Order.pdf
+│       └── Use case specification - Place Order.pdf
+│
+│
+└── README.md
+</pre>
