@@ -1,5 +1,4 @@
-# TKXDPM.CNTN.20221-20194043.NguyenQuocHao
-<pre>
+
 ├── Architectural Design\
 │   ├── Analysis Classes\
 │   │   ├── Analysis Classes - Pay Order.png
@@ -19,4 +18,3 @@
 │
 ├── lab03.asta
 └── README.md
-</pre>
