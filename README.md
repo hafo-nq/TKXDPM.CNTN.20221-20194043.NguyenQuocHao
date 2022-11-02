@@ -1,19 +1,20 @@
-# TKXDPM.CNTN.20221-20194043.NguyenQuocHao
-<pre>
-├── Requirement Analysis\
-│   ├── Activity diagram\
-│   │   ├── Activity diagram - Pay Order.png
-│   │   ├── Activity diagram - Place Order with Place Rush Order.png
-│   │   └── Activity diagram - Place Order.png
+
+├── Architectural Design\
+│   ├── Analysis Classes\
+│   │   ├── Analysis Classes - Pay Order.png
+│   │   ├── Analysis Classes - Place Order.png
+│   │   └── Analysis Classes - Place Rush Order.png
 │   │
-│   ├── Use case diagram\
-│   │   └── use case diagram.png
+│   ├── Communication Diagram\
+│   │   ├── Communication Diagram - Pay Order.png
+│   │   ├── Communication Diagram - Place Order.png
+│   │   └── Communication Diagram - Place Rush Order.png
 │   │
-│   └── Use case specification\
-│       ├── Use case specification - Pay Order.pdf
-│       ├── Use case specification - Place Order with Place Rush Order.pdf
-│       └── Use case specification - Place Order.pdf
+│   └── Sequence Diagram\
+│       ├── Sequence Diagram - Pay Order.png
+│       ├── Sequence Diagram - Place Order.png
+│       └── Sequence Diagram - Place Rush Order.png
 │
 │
+├── lab03.asta
 └── README.md
-</pre>
