@@ -1,37 +1,53 @@
 <pre>
-
-├── Architectural Design\
-│   ├── Analysis Classes\
-│   │   ├── Analysis Classes - Pay Order.png
-│   │   ├── Analysis Classes - Place Order.png
-│   │   └── Analysis Classes - Place Rush Order.png
-│   │
-│   ├── Communication Diagram\
-│   │   ├── Communication Diagram - Pay Order.png
-│   │   ├── Communication Diagram - Place Order.png
-│   │   └── Communication Diagram - Place Rush Order.png
-│   │
-│   └── Sequence Diagram\
-│       ├── Sequence Diagram - Pay Order.png
-│       ├── Sequence Diagram - Place Order.png
-│       └── Sequence Diagram - Place Rush Order.png
+│   README.md
+│   Screen-Specification.docx
 │
-│
-├── Requirement Analysis\
-│   ├── Activity diagram\
-│   │   ├── Activity diagram - Pay Order.png
-│   │   ├── Activity diagram - Place Order with Place Rush Order.png
-│   │   └── Activity diagram - Place Order.png
-│   │
-│   ├── Use case diagram\
-│   │   └── use case diagram.png
-│   │
-│   └── Use case specification\
-│       ├── Use case specification - Pay Order.pdf
-│       ├── Use case specification - Place Order with Place Rush Order.pdf
-│       └── Use case specification - Place Order.pdf
-│
-│
-├── lab03.asta
-└── README.md
+└───Setup
+    │   pom.xml
+    │
+    └───src
+        └───main
+            ├───java
+            │   │   module-info.java
+            │   │
+            │   └───kstn
+            │       └───tkxdpm
+            │           └───aims
+            │               ├───controllers
+            │               │       HomeController.java
+            │               │       ItemMarketController.java
+            │               │       SplashController.java
+            │               │
+            │               ├───main
+            │               │       Main.java
+            │               │
+            │               └───models
+            │                       Item.java
+            │
+            └───resources
+                ├───css
+                │       style.css
+                │
+                ├───imgs
+                │       appicon2.png
+                │       cart.png
+                │       clock.png
+                │       delivery-fast.png
+                │       harry-potter-book.png
+                │       home.png
+                │
+                └───kstn
+                    └───tkxdpm
+                        └───aims
+                            └───views
+                                │   CartView.fxml
+                                │   HomeView.fxml
+                                │   InvoiceView.fxml
+                                │   PaymentView.fxml
+                                │   PlaceRushOrder.fxml
+                                │   ShippingView.fxml
+                                │   SplashView.fxml
+                                │
+                                └───components
+                                        ItemMarket.fxml
 </pre>
